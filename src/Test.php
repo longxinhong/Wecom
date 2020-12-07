@@ -1,5 +1,6 @@
 <?php
 
+namespace Longxinhong\Wecom;
 
 class Test
 {
