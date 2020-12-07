@@ -9,4 +9,8 @@ class Test
         return 'A';
     }
 
+    public static function B()
+    {
+        return 'B';
+    }
 }
