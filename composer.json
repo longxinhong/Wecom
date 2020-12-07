@@ -1,0 +1,16 @@
+{
+    "name": "longxinhong/wecom",
+    "description": "企业微信内部开发",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "longxinhong",
+            "email": "1058524166@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Longxinhong\\Wecom\\": "src"
+        }
+    }
+}
